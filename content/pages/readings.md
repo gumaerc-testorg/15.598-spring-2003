@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a bibliography of cases, articles, and notes for
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9d37cd2c-7224-c4c8-beec-4e5512efab3a
 ---
@@ -62,7 +67,7 @@ Eisenhardt, K. M., and D. N. Sull. "Strategy as Simple Rules." _HBR_ (Jan. 2001)
 
 Feeny, D. E., and L. P. Willcocks. "Core IS Capabilities for Exploiting Information Technology." _SMR_ (Spring 1998): 9-21.
 
-Gibson, C.F. _IT and Our Careers_, course lecture notes ([PDF]({{< baseurl >}}/resources/itandourcareers))
+Gibson, C.F. _IT and Our Careers_, course lecture notes ({{% resource_link e5446ac5-c9a6-5e43-dc1c-79c16bf54cc3 "PDF" %}})
 
 Gibson, C. F. "Pressure Testing & Changing the IT Organization." _CISR Research Briefing #3D_ (Oct. 2002).
 
