@@ -6,6 +6,7 @@ file: /courses/15-598-it-and-business-transformation-spring-2003/aec62bde190a4b6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: Assignment 6
 uid: aec62bde-190a-4b62-58b9-28fcb2c856cd
 ---
 Assigned readings for a lecture on information technology scenario planning.
-
-

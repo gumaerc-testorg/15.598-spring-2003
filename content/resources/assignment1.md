@@ -6,6 +6,7 @@ file: /courses/15-598-it-and-business-transformation-spring-2003/113714bcf3298cc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 1
 uid: 113714bc-f329-8cc8-1e4a-6f653823a38b
 ---
 Assigned readings and cases for a lecture on on IT as a transformative and competitive resource, and JetBlue’s business success.
-

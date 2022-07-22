@@ -6,6 +6,7 @@ file: /courses/15-598-it-and-business-transformation-spring-2003/893474dc28f8dd5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 7
 uid: 893474dc-28f8-dd57-df7c-33dd1a1d9221
 ---
 Assigned readings and preparation questions for a lecture on scenario planning.
-
