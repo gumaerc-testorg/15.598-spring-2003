@@ -3,6 +3,7 @@ content_type: resource
 description: 'Assigned readings and cases for a guest lecture by Rick Swanborg, founder
   and CEO of ICEX, Inc. '
 file: /courses/15-598-it-and-business-transformation-spring-2003/eda24eb59bdad839754b5d0f7df39e48_assignment7.pdf
+file_size: 44638
 file_type: application/pdf
 learning_resource_types:
 - Assignments
