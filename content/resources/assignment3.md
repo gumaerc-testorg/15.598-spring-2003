@@ -3,6 +3,7 @@ content_type: resource
 description: Assigned readings and cases on the evolution and governance of State
   Street Corporation.
 file: /courses/15-598-it-and-business-transformation-spring-2003/edc0690c13dd0b797e158100b70a1250_assignment3.pdf
+file_size: 37163
 file_type: application/pdf
 learning_resource_types:
 - Assignments
