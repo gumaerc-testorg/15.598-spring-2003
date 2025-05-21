@@ -2,7 +2,7 @@
 content_type: resource
 description: Assigned readings and preparation questions for a lecture on scenario
   planning.
-file: /ol-ocw-studio-app/courses/15-598-it-and-business-transformation-spring-2003/893474dc28f8dd57df7c33dd1a1d9221_assignment6.pdf
+file: /courses/15-598-it-and-business-transformation-spring-2003/893474dc28f8dd57df7c33dd1a1d9221_assignment6.pdf
 file_size: 51939
 file_type: application/pdf
 learning_resource_types:
