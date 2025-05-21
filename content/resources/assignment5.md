@@ -2,7 +2,7 @@
 content_type: resource
 description: "Assigned readings for a lecture on information technology scenario planning.\r\
   \n"
-file: /ol-ocw-studio-app/courses/15-598-it-and-business-transformation-spring-2003/aec62bde190a4b6258b928fcb2c856cd_assignment5.pdf
+file: /courses/15-598-it-and-business-transformation-spring-2003/aec62bde190a4b6258b928fcb2c856cd_assignment5.pdf
 file_size: 34230
 file_type: application/pdf
 learning_resource_types:
