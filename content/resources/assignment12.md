@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assigned readings on the role of information technology in business. '
-file: /courses/15-598-it-and-business-transformation-spring-2003/856159141fd4c8e5e144f6346c55a743_assignment12.pdf
+file: /ol-ocw-studio-app/courses/15-598-it-and-business-transformation-spring-2003/856159141fd4c8e5e144f6346c55a743_assignment12.pdf
 file_size: 29445
 file_type: application/pdf
 learning_resource_types:
